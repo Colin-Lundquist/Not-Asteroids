@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\soulair\source\repos\consoleapplication3\consoleapplication3\main.cpp(112): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\soulair\source\repos\consoleapplication3\consoleapplication3\main.cpp(113): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication3.vcxproj -> C:\Users\SoulAir\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
